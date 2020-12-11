@@ -1,0 +1,2 @@
+C:\Users\HP\source\repos\Stack\Debug\Stack.exe
+C:\Users\HP\source\repos\Stack\Debug\Stack.pdb
